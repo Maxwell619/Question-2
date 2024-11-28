@@ -5,10 +5,9 @@ This project implements a simple REST API to manage products using Python and Fl
 
 ## Setup Instructions
 1. Clone the repository:
-    ```bash
     git clone https://github.com/Maxwell619/Question-2
     cd Question-2
-    ```
+   
 
 2. Install dependencies:
     pip install flask requests
